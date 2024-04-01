@@ -2,7 +2,7 @@
 <suite name="Suite">
     <test name="LambdaTest">
         <classes>
-            <class name="Report2"/>
+            <class name="Report"/>
         </classes>
     </test>
 </suite>
